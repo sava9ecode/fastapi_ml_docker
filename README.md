@@ -1,4 +1,4 @@
-# An example of a fastapi ml and docker application
+# An example of a fastapi, ml and docker application
 
 An example app that shows how to build a ML app with FastAPI and Docker.  
 The starter file is [model_starter.py](model_starter.py) with a model from Hugging Face: https://huggingface.co/dandelin/vilt-b32-finetuned-vqa  
